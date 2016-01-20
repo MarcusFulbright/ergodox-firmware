@@ -1,0 +1,3 @@
+/home/marcus/Desktop/ergodox-firmware/build/BudKeypad/CMakeFiles/SizeAfter.dir
+/home/marcus/Desktop/ergodox-firmware/build/BudKeypad/CMakeFiles/kiibohd.elf.dir
+/home/marcus/Desktop/ergodox-firmware/build/BudKeypad/CMakeFiles/kll_regen.dir

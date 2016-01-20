@@ -1,0 +1,3 @@
+/home/marcus/Desktop/ergodox-firmware/build/UnivacF3W9/CMakeFiles/SizeAfter.dir
+/home/marcus/Desktop/ergodox-firmware/build/UnivacF3W9/CMakeFiles/kiibohd.elf.dir
+/home/marcus/Desktop/ergodox-firmware/build/UnivacF3W9/CMakeFiles/kll_regen.dir

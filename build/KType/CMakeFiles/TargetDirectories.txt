@@ -1,0 +1,3 @@
+/home/marcus/Desktop/ergodox-firmware/build/KType/CMakeFiles/SizeAfter.dir
+/home/marcus/Desktop/ergodox-firmware/build/KType/CMakeFiles/kiibohd.elf.dir
+/home/marcus/Desktop/ergodox-firmware/build/KType/CMakeFiles/kll_regen.dir

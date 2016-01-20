@@ -1,0 +1,3 @@
+/home/marcus/Desktop/ergodox-firmware/build/SonyOA-S3400/CMakeFiles/SizeAfter.dir
+/home/marcus/Desktop/ergodox-firmware/build/SonyOA-S3400/CMakeFiles/kiibohd.elf.dir
+/home/marcus/Desktop/ergodox-firmware/build/SonyOA-S3400/CMakeFiles/kll_regen.dir
